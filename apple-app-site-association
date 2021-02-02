@@ -1,0 +1,13 @@
+{
+  "applinks": {
+  "apps": [],
+      "details": [
+           {
+             "appIDs": "5C7WMWZ34Q.com.ouiguide.travel.app",
+             "paths": [
+             "/route/*"
+             ]
+           }
+       ]
+   }
+}
